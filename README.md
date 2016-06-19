@@ -1,6 +1,6 @@
 # ReactJS redux weather application - Akyuna Akish
 
-Built with:
+### Built with:
 ```
 ReactJS
 Redux
@@ -14,6 +14,14 @@ HTML
 CSS
 ```
 
-- Live Site:
+### Live Site:
 
 [http://react-redux-weather.s3-website-us-west-2.amazonaws.com/]('http://react-redux-weather.s3-website-us-west-2.amazonaws.com/')
+
+### To run on your machine:
+
+```
+$ npm install -g webpack webpack-dev-server
+$ npm install
+$ npm start
+```

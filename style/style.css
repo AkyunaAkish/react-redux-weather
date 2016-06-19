@@ -1,0 +1,36 @@
+body {
+  background: url("./weather_landscape.jpg") no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+
+.table {
+  color: white !important;
+}
+
+.weatherTableHead {
+  background: rgba(54, 25, 25, .7) !important;
+}
+
+.weatherRow {
+  background: rgba(54, 25, 25, .7) !important;
+}
+
+.input-group {
+  margin: 20px 0px;
+}
+
+td, th {
+  vertical-align: middle !important;
+  text-align: center !important;
+}
+
+td:first-of-type {
+  height: 200px;
+  width: 250px;
+  min-height: 200px;
+  min-width: 250px;
+}

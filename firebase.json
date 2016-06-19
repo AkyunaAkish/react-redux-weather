@@ -1,9 +1,0 @@
-{
-  "firebase": "react-redux-weather-app",
-  "public": ".",
-  "ignore": [
-    "firebase.json",
-    "**/.*",
-    "**/node_modules/**"
-  ]
-}
